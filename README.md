@@ -23,7 +23,7 @@ Technical Complexity
 Usability and User Experience
 Presentation Quality
 
-##Third Position 🏆
+## Third Position 🏆
 This Submission Won the Third Position in the Hackathon.
 
 
