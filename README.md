@@ -26,5 +26,5 @@ Presentation Quality
 ## Third Position 🏆
 This Submission Won the Third Position in the Hackathon.
 
-
-Feel free to copy and paste the above text into your README.md file in your GitHub repository. Customize it further according to your specific hackathon details and resources.
+You can run this programs on remix ide!
+Happy coding dude !!
